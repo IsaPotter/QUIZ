@@ -1,0 +1,5 @@
+Qual é a capital do Brasil?|brasilia
+Quanto é 2 + 2?|4
+Qual é o maior planeta do sistema solar?|jupiter
+Quem pintou a Mona Lisa?|leonardo da vinci
+Em que ano o Brasil foi descoberto?|1500
